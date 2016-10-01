@@ -1,0 +1,25 @@
+{
+  "name": "ng2-list",
+  "version": "1.0.0-alpha.0",
+  "description": "Angular 2 List",
+  "module": "./index.js",
+  "typings": "./index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/QuinntyneBrown/ng2-list.git"
+  },
+  "keywords": [
+    "angular",
+    "components",
+    "list"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuinntyneBrown/ng2-list/issues"
+  },
+  "homepage": "https://github.com/QuinntyneBrown/ng2-list#readme",
+  "peerDependencies": {
+    "@angular/core": "2.0.0",
+    "@angular/common": "2.0.0"
+  }
+}
